@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  height: 60px;
+  background-color: aquamarine;
+  color: red;
+  display: flex;
+  justify-content: space-between;
+}
+
+.foodRestaurant {
+  line-height: 60px;
+  padding: 0 20px;
+}
+
+.icon_order {
+  line-height: 60px;
+  font-size: 30px;
+  i {
+    padding: 0 15px;
+  }
+}
